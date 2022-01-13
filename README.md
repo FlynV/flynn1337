@@ -1,5 +1,5 @@
-### Hi there 👋, I'm [Alaa Nasrallah](https://github.com/alaanasrallah)! 
-#### A student whos passionate about Game/Web Dev... *Or am I?* 🤔
+# Hi there 👋, I'm [Alaa Nasrallah](https://github.com/alaanasrallah)!
+## A student whos passionate about Game/Web Dev... *Or am I?* 🤔
 ![A student whos passionate about Game/Web Dev... *Or am I?* 🤔](https://c.tenor.com/LDuF2jVabwoAAAAC/banner-welcome.gif)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
