@@ -9,7 +9,7 @@
 # About Me: <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ```js
-var someVar = 'hello'
+var definedVariable= 'So where to begin huh?🤔'
 ```
 
 
