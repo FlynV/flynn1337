@@ -1,4 +1,4 @@
-# Hello Earthlings! I'm [Alaa Nasro](https://github.com/alaanasrallah/)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello Earthlings! I'm [Alaa](https://github.com/alaanasrallah/)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 
@@ -9,8 +9,9 @@
 # About Me: <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ```js
-var definedVariable= 'So where to begin huh?🤔'
+var question= 'So where to begin huh?🤔'
 ```
+Im **Alaa**, **21 YO from Algeria**- I started meddling with **technical stuff** since I was 12, fast forward ions later I learned how to make **video games**, **websites** and some cool stuff! Ill post my projects over here. Oh! And I'll become a **Kinesiotherapist**! [Whats a Kinesiotherapist?](https://en.wikipedia.org/wiki/Kinesiotherapy)
 
 
 # Skills & Languages: <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
